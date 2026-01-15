@@ -1,5 +1,0 @@
-这是一个示例文件，用于演示如何使用 baseline_files 目录。
-
-当你执行发版流程时，此文件会被上传到 Git 仓库的 release/baseline/{基线号}/example.txt
-
-你可以删除此文件，并放入你自己需要上传的文件。
